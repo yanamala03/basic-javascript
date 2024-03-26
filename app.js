@@ -32,5 +32,6 @@ const getpercentage=(a)=>{
 getpercentage(42)
 
 
+console.log("hello")
 
 
